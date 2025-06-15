@@ -3,11 +3,14 @@
 Cognitive Hybrid Heuristics Operational & Tactical Unit
 
 # What is C.H.H.O.T.U.?
-C.H.H.O.T.U. is an advanced Artificial Intelligence Algorithm that can automate tasks, control IoT devices, solve problems, do the research on your behalf, and much more, better than ChatGPT/Grok/other AI LLMs out there.
+C.H.H.O.T.U. is an advanced Artificial Intelligence Algorithm that can automate tasks, control IoT devices, solve problems, research on your behalf, and much more, better than ChatGPT/Grok/other AI LLMs out there.
 
 # Why C.H.H.O.T.U.?
 C.H.H.O.T.U. was developed to remove the system dependency of running an LLM locally, illogical answers by LLM, or the inability to do basic math calculations.
 
 # What makes C.H.H.O.T.U. so special?
-C.H.H.O.T.U. is a paid open-source AI algorithm that completely runs on cloud thereby removing system dependencies and can be hosted virtually and accessed from anywhere in the world.
-It also used a mathematical model that can actually solve the mathematical problems, and a classification model, which takes the input, and then classifies it into the type of task the user wants to do and then forward it the designated model, kind of exactly like a Neural Network.
+C.H.H.O.T.U. is a paid open-source AI algorithm that runs completely on the cloud, thereby removing system dependencies, and can be hosted virtually and accessed from anywhere in the world.
+It also utilized a mathematical model that can solve mathematical problems and a classification model, which takes the input and then classifies it into the type of task the user wants to perform, forwarding it to the designated model, much like a Neural Network.
+
+# What is C.H.H.O.T.U. technically?
+C.H.H.O.T.U. is a cloud-based multi-modal AI agent.
